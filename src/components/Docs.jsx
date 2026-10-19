@@ -14,6 +14,11 @@ export default function Docs() {
         code="git branch -M main"
       />
       <Section
+        title="Connect"
+        description="Links this local project to your forked repository on GitHub, under the name origin."
+        code="git remote add origin https://github.com/MondragonCid/CSIT340-G8-Midterms-Mondragon.git"
+      />
+      <Section
         title="Upload"
         description="Sends the main branch to the remote named origin."
         code="git push -u origin main"

@@ -6,3 +6,4 @@ export default function StatCard({ value, label }) {
     </div>
   );
 }
+
