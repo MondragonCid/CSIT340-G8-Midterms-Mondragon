@@ -8,7 +8,7 @@ export default function SideBar() {
         <li className="border-l-4 border-[#C9996B] py-2 pl-4">Connect</li>
         <li className="border-l-4 border-[#C9996B] py-2 pl-4">Upload</li>
       </ul>
-      <p className="mt-auto text-xl">Written by YOUR NAME</p>
+      <p className="mt-auto text-xl">Written by Mondragon Cid Jacerrein B.</p>
     </nav>
   );
 }
